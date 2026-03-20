@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BackbenchersHC.aternos.me:28509",
+    "ip": "trunkfish.aternos.host:28509",
     "port": 28509,
     "version": "1.21.11",
     "try-creative": false
