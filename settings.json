@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Local-PKUq.aternos.me",
-    "port": 58447,
-    "version": "1.26.3.1",
+    "ip": "BackbenchersHC.aternos.me:28509",
+    "port": 28509,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
